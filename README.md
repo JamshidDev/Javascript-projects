@@ -1,2 +1,2 @@
-# Javascript-projects
+# Javascript-loyihalar
 You can find projects that can be done using Javascript
